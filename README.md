@@ -10,7 +10,7 @@ This is a web application built using **Next.js**, **React.js**, **Node.js**, an
 - **Database**: PostgreSQL
 - **Authentication**: JWT-based Authentication
 - **CSS Framework**: Tailwind CSS
-- **Deployment**: [Vercel](https://vercel.com/) for frontend, [AWS EC2](https://aws.amazon.com/ec2/) for backend (optional)
+- **Deployment**: [Vercel](https://train-booking-three.vercel.app/) for frontend, [AWS EC2](https://aws.amazon.com/ec2/) for backend (optional)
 
 ## Setup Instructions
 
